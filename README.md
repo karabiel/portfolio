@@ -1,9 +1,11 @@
 # Portfolio
 <sub> Ogólne informacje na temat mojego dotychczasowego doświadczenia związanego z testowaniem
+
+ <br>
   
-  
-##  
-  
+##  Aktywność
+
+
 ### Zadania praktyczne
 
 * na podstawie Panelu Skautingowego
@@ -16,9 +18,6 @@
   
   * :link: [raport](https://docs.google.com/document/d/10Z9YXiHvSQIUTTH_gE_tWjCFvfwflCbufErSiO5BM9w/edit)
 
-<br>
-
-## Aktywności
 
 ### Kursy :school_satchel:
 
