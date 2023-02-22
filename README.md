@@ -82,8 +82,7 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
   * Capgemini [Cyber plac - szkolenie *Podstawy testowania w IT*](https://kursy.cyberplac.pl/product/podstawy-testowania-w-it/) (13.01.2023 r.),
 
-  * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub
-[<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/portfolio),
+  * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub [<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/challenge_portfolio_Karolina),
 
   * Dare IT x SWPS Innowacje – [*Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - 09.03.2023 r.),
 
@@ -122,4 +121,4 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
 ### Literatura :books:
 
-  * Radosław Smilgin *Zawód tester. Od decyzji do zdobycia doświadczenia*
+  * Radosław Smilgin *Zawód tester. Od decyzji do zdobycia doświadczenia*.
