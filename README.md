@@ -58,6 +58,9 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
 
 ### Tools :hammer_and_wrench:
+
+Jestem zaznajomionia z takimi narzędziami:
+
   - Google Drive,
   - Xampp,
   - Slack,
@@ -71,6 +74,8 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
 
 ### Kursy :school_satchel:
+
+Ukończyłam kilka szkoleń oraz kursów online:
 
   * Szkolenia [*Google Cloud Skills Boost*](https://www.cloudskillsboost.google/) (od 06.2022 r.) - :point_right: [zdobyte odznaki](https://www.cloudskillsboost.google/public_profiles/f9509f71-eac0-4a44-8aa6-6cc23e8eb26a),
 
@@ -86,10 +91,12 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
   * Dare IT x SWPS Innowacje – [*Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - 09.03.2023 r.),
 
-  * Tomasz Libera - [*SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.).
+  * Tomasz Libera - [*SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.),
 
 
 ### Webinary :coffee:
+
+Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, testowanie czy przebranżowienie:
 
   * Akademia kodu Michał Makaruk - *Specjalność Programista: Podstawy Javy* (10.05.2020 r.),
 
@@ -112,11 +119,15 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
 ### Podcasty :headphones:
 
+W wolnych chwilach słucham podcasty o tematyce testowania oraz ogólnych pojęć ze świata IT:
+
   * Norbert Jankowski (ping) - [*Testowanie Oprogramowania Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0dGVzdG93YW5pZS5wbC9mZWVkLw),
 
   * Piotr Krzosa (testuj.pl) - [*TestujTalks*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vdGVzdHVqdGFsa3Mv),
 
-  * Maciej Wyrodek - [*Itea Morning*](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82NjJlZDEwOC9wb2RjYXN0L3Jzcw).
+  * Maciej Wyrodek - [*Itea Morning*](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82NjJlZDEwOC9wb2RjYXN0L3Jzcw),
+  
+  * Łukasz Kobyliński - [*Stacja IT*](https://podcasts.google.com/feed/aHR0cHM6Ly9zdGFjamFpdC5saWJzeW4uY29tL3Jzcw).
 
 
 ### Literatura :books:
