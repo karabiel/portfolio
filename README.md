@@ -59,7 +59,7 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
 ### Tools :hammer_and_wrench:
 
-Jestem zaznajomionia z takimi narzędziami:
+Jestem zaznajomiona z takimi narzędziami jak:
 
   - Google Drive,
   - Xampp,
