@@ -61,12 +61,15 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 
 Jestem zaznajomiona z takimi narzędziami jak:
 
-  - Google Drive,
-  - Xampp,
-  - Slack,
-  - WhatsApp,
-  - Redmine,
-  - TestLink.
+  - [Google Workspace](https://workspace.google.com/features/) (m.in. [Drive](https://workspace.google.com/products/drive/), [Docs](https://workspace.google.com/products/docs/), [Calendar](https://workspace.google.com/products/calendar/), [Meet](https://workspace.google.com/products/meet/)),
+  - [Xampp](https://www.apachefriends.org/pl/index.html),
+  - [Slack](https://slack.com/),
+  - [WhatsApp](https://www.whatsapp.com/?lang=pl),
+  - [Redmine](https://www.redmine.org/),
+  - [TestLink](https://testlink.org/),
+  - [MS Teams](https://www.microsoft.com/pl-pl/microsoft-teams/log-in),
+  - [Moodle](https://moodle.org/?lang=pl),
+  - [Trello](https://trello.com/pl).
 
 <br>
 
@@ -85,13 +88,15 @@ Ukończyłam kilka szkoleń oraz kursów online:
 
   * [Dotli](https://dotli.pl/qc/) - warsztaty *Tester oprogramowania* (02.01. - 04.01.2023 r.),
 
-  * Capgemini [Cyber plac - szkolenie *Podstawy testowania w IT*](https://kursy.cyberplac.pl/product/podstawy-testowania-w-it/) (13.01.2023 r.),
+  * [Capgemini Cyber plac - szkolenie *Podstawy testowania w IT*](https://kursy.cyberplac.pl/product/podstawy-testowania-w-it/) (13.01.2023 r.),
 
   * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub [<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/challenge_portfolio_Karolina),
 
-  * Dare IT x SWPS Innowacje – [*Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - 09.03.2023 r.),
+  * [Dare IT x SWPS Innowacje – *Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - w trakcie),
 
-  * Tomasz Libera - [*SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.),
+  * [Tomasz Libera - *SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.),
+  
+  * [INCO ACADEMY - *GREEN DIGITAL SKILLS*](https://learning.inco-group.co/enrol/index.php?id=17) (dn. 27.02. - w trakcie).
 
 
 ### Webinary :coffee:
@@ -100,11 +105,11 @@ Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, test
 
   * Akademia kodu Michał Makaruk - *Specjalność Programista: Podstawy Javy* (10.05.2020 r.),
 
-  * IBM Poland - *Tech for Her - Social Media* (16.11.2020 r.),
+  * [IBM Poland](https://www.ibm.com/) - *Tech for Her - Social Media* (16.11.2020 r.),
 
-  * Nokia - *#testedInWrocław* (27.10.2022 r.),
+  * [Nokia](https://www.nokia.com/) - *#testedInWrocław* (27.10.2022 r.),
 
-  * Keywords Studios - *What is behind game testing and how to become a video game tester?* (27.10.2022 r.),
+  * [Keywords Studios](https://www.keywordsstudios.com/) - *What is behind game testing and how to become a video game tester?* (27.10.2022 r.),
 
   * Jarek Łojko (Agile Adept), Paweł Kmiotek - [*Czy, kiedy i jaka wiedza techniczna przydaje się SM-om*](https://www.youtube.com/watch?v=zuZGkgmXcQQ) (09.11.2022 r.),
 
@@ -112,9 +117,9 @@ Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, test
 
   * DareIT - [*Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim*](https://www.youtube.com/live/RUAwpJq928A?feature=share) (04.01.2023 r.),
 
-  * Dawid Pacia (Cantest) - *DevTools - zrozum, odnajdź się, korzystaj w testach i automatyzacji* (24.01.2023 r.),
+  * Dawid Pacia ([Cantest](https://www.cantest.it/)) - *DevTools - zrozum, odnajdź się, korzystaj w testach i automatyzacji* (24.01.2023 r.),
 
-  * Damian Krychowski, Filip Paluch (Ifs&Whiles) - [*Czy IT jest dla mnie? Naucz się testować manualnie*](https://event.webinarjam.com/replay/22/gp56gf3h8ytzggtk21) (26.01.2023 r.).
+  * [Filip Paluch, Damian Krychowski (Ifs&Whiles) - *Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (26.01.2023 r.).
 
 
 ### Podcasty :headphones:
