@@ -49,7 +49,10 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
   * tworzenie podstawowych zapytań w języku SQL
 
 
-    - :link: [rozwiązane zadania](https://github.com/karabiel/challenge_portfolio_Karolina#subtask-3-zadania-weight_lifting);
+    - :link: [zadania z *DareIT*](https://github.com/karabiel/challenge_portfolio_Karolina#subtask-3-zadania-weight_lifting),
+    
+    
+    - :link: [zadania z *SQL w 120 min*](https://github.com/karabiel/SQL-w-120-min/blob/main/README.md);
 
   * tworzenie podstawowych stron WWW (HTML + CSS)
 
@@ -63,11 +66,14 @@ Jestem zaznajomiona z takimi narzędziami jak:
 
   - [Google Workspace](https://workspace.google.com/features/) (m.in. [Drive](https://workspace.google.com/products/drive/), [Docs](https://workspace.google.com/products/docs/), [Calendar](https://workspace.google.com/products/calendar/), [Meet](https://workspace.google.com/products/meet/)),
   - [Xampp](https://www.apachefriends.org/pl/index.html),
+  - [SQL Serve Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16),
+  - [IntelliJ](https://www.jetbrains.com/idea/),
   - [Slack](https://slack.com/),
+  - [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software),
   - [WhatsApp](https://www.whatsapp.com/?lang=pl),
+  - [Zoom](https://zoom.us/),
   - [Redmine](https://www.redmine.org/),
   - [TestLink](https://testlink.org/),
-  - [MS Teams](https://www.microsoft.com/pl-pl/microsoft-teams/log-in),
   - [Moodle](https://moodle.org/?lang=pl),
   - [Trello](https://trello.com/pl).
 
@@ -119,7 +125,11 @@ Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, test
 
   * Dawid Pacia ([Cantest](https://www.cantest.it/)) - *DevTools - zrozum, odnajdź się, korzystaj w testach i automatyzacji* (24.01.2023 r.),
 
-  * [Filip Paluch, Damian Krychowski (Ifs&Whiles) - *Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (26.01.2023 r.).
+  * [Filip Paluch, Damian Krychowski (Ifs&Whiles) - *Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (26.01.2023 r.),
+  
+  * Adam Toczek ([Cantest](https://www.cantest.it/)) - *Java + Selenium absolutne podstawy* (14.03.2023 r.),
+  
+  * Tomasz Libera ([Kursy SQL](https://www.kursysql.pl/)) - [*Transakcje w SQL Server i SQL Database*](https://www.youtube.com/live/i9JrEzYUm68) (15.03.2023 r.).
 
 
 ### Podcasty :headphones:
