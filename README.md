@@ -109,7 +109,7 @@ Ukończyłam kilka szkoleń oraz kursów online:
 
 Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, testowanie czy przebranżowienie:
 
-  * Akademia kodu Michał Makaruk - *Specjalność Programista: Podstawy Javy* (10.05.2020 r.),
+  * Michał Makaruk (Akademia kodu) - [*Specjalność Programista: Podstawy Javy*](https://www.youtube.com/watch?v=wtSX8n5omrI) (10.05.2020 r.),
 
   * [IBM Poland](https://www.ibm.com/) - *Tech for Her - Social Media* (16.11.2020 r.),
 
