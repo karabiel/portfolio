@@ -96,13 +96,11 @@ Ukończyłam kilka szkoleń oraz kursów online:
 
   * [Capgemini Cyber plac - szkolenie *Podstawy testowania w IT*](https://kursy.cyberplac.pl/product/podstawy-testowania-w-it/) (13.01.2023 r.),
 
-  * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub [<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/challenge_portfolio_Karolina),
+  * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub [<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/challenge_portfolio_Karolina) / [poświadczenie](https://drive.google.com/drive/folders/1kah8juosYfMavOis_6O5CjazhItI-3dD),
 
-  * [Dare IT x SWPS Innowacje – *Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - w trakcie),
+  * [Dare IT x SWPS Innowacje – *Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - 09.03.2023 r.),
 
-  * [Tomasz Libera - *SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.),
-  
-  * [INCO ACADEMY - *GREEN DIGITAL SKILLS*](https://learning.inco-group.co/enrol/index.php?id=17) (dn. 27.02. - w trakcie).
+  * [Tomasz Libera - *SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.).
 
 
 ### Webinary :coffee:
