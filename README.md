@@ -57,7 +57,13 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
   * tworzenie podstawowych stron WWW (HTML + CSS)
 
 
-    - :link: [przykładowa strona](https://62c29c2fac36813543eb1f90--venerable-chaja-3bae5f.netlify.app/).
+    - :link: [przykładowa strona](https://62c29c2fac36813543eb1f90--venerable-chaja-3bae5f.netlify.app/);
+    
+
+  * testowanie - spostrzegawczość, dociekliwość i inne -ości, którymi się cechuję 
+ 
+
+    - :link: [testowanie po godzinach](https://docs.google.com/document/d/11OYDfNMvq5at9UK4e01jVxfimCmF35glh1GNUl4dP6Q/edit) - błędy, które udało mi się znaleźć głównie podczas codziennego użytkowania różnych witryn.
 
 
 ### Tools :hammer_and_wrench:
