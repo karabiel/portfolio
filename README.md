@@ -34,7 +34,11 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
     - :link: [test case](https://docs.google.com/document/d/16axYt9oWGVhoxJG_qsYtjMcE5DUH_8Lb6Pc2V6E4WtQ/edit) na podstawie user story dla platformy [Scout Panel](https://scouts-test.futbolkolektyw.pl/),
 
 
-    - :link: [test case](https://docs.google.com/document/d/1GMdhsz729eZkyM9er0wHh-U1uyYDE_b8DTaAOpzDUXg/edit) na podstawie własnych doświadczeń dla platformy [Scout Panel](https://scouts-test.futbolkolektyw.pl/);
+    - :link: [test case](https://docs.google.com/document/d/1GMdhsz729eZkyM9er0wHh-U1uyYDE_b8DTaAOpzDUXg/edit) na podstawie własnych doświadczeń dla platformy [Scout Panel](https://scouts-test.futbolkolektyw.pl/),
+ 
+
+
+    - :link: [test case](https://docs.google.com/spreadsheets/d/1m42aw74ORIgIxPNJ6pHRAMbvcZYDSOixvUUUSEOibPc/edit#gid=1984670991) na przykładzie [Gmail'a](www.gmail.com);
 
 
   * tworzenie raportów
