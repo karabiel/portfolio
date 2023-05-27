@@ -75,17 +75,16 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
 Jestem zaznajomiona z takimi narzędziami jak:
 
   - [Google Workspace](https://workspace.google.com/features/) (m.in. [Drive](https://workspace.google.com/products/drive/), [Docs](https://workspace.google.com/products/docs/), [Calendar](https://workspace.google.com/products/calendar/), [Meet](https://workspace.google.com/products/meet/)),
+  - [Trello](https://trello.com/pl),
+  - [TestRail](http://testrail.com/),
+  - [TestLink](https://testlink.org/),
+  - [Moodle](https://moodle.org/?lang=pl),
+  - [Redmine](https://www.redmine.org/),
   - [Xampp](https://www.apachefriends.org/pl/index.html),
   - [SQL Serve Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16),
   - [IntelliJ](https://www.jetbrains.com/idea/),
   - [Slack](https://slack.com/),
-  - [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software),
-  - [WhatsApp](https://www.whatsapp.com/?lang=pl),
-  - [Zoom](https://zoom.us/),
-  - [Redmine](https://www.redmine.org/),
-  - [TestLink](https://testlink.org/),
-  - [Moodle](https://moodle.org/?lang=pl),
-  - [Trello](https://trello.com/pl).
+  - [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software).
 
 <br>
 
@@ -96,48 +95,50 @@ Jestem zaznajomiona z takimi narzędziami jak:
 
 Ukończyłam kilka szkoleń oraz kursów online:
 
-  * Szkolenia [*Google Cloud Skills Boost*](https://www.cloudskillsboost.google/) (od 06.2022 r.) - :point_right: [zdobyte odznaki](https://www.cloudskillsboost.google/public_profiles/f9509f71-eac0-4a44-8aa6-6cc23e8eb26a),
+  * Szkolenia [*Google Cloud Skills Boost*](https://www.cloudskillsboost.google/) (od dn. 06.2022 r.) - :point_right: [zdobyte odznaki](https://www.cloudskillsboost.google/public_profiles/f9509f71-eac0-4a44-8aa6-6cc23e8eb26a),
 
-  * [Sii - kurs *Zostań testerem*](https://sii.pl/szkolenia/oferta/zostan-testerem/) (19.03. - 03.04.2022 r.) - :point_right: [zaświadczenie](https://drive.google.com/file/d/1vqA5gkPpQiQY4HiVvZ-A2paccgTGGMYn/view),
+  * [Sii - kurs *Zostań testerem*](https://sii.pl/szkolenia/oferta/zostan-testerem/) (dn. 19.03. - 03.04.2022 r.) - :point_right: [zaświadczenie](https://drive.google.com/file/d/1vqA5gkPpQiQY4HiVvZ-A2paccgTGGMYn/view),
 
-  * [GoIT](https://m.goit.global/pl/) - 7-dniowy maraton HTML i CSS, projekt *Pierwsza strona WWW* (29.06. - 06.07.2022 r.),
+  * [GoIT](https://m.goit.global/pl/) - [7-dniowy maraton HTML i CSS](https://m.goit.global/pl/?utm_source=organic&utm_medium=seo&utm_campaign=freeproductpage), projekt *Pierwsza strona WWW* (dn. 29.06. - 06.07.2022 r.),
 
-  * [Dotli](https://dotli.pl/qc/) - warsztaty *Tester oprogramowania* (02.01. - 04.01.2023 r.),
+  * [Dotli](https://dotli.pl/qc/) - warsztaty *Tester oprogramowania* (dn. 02.01. - 04.01.2023 r.),
 
-  * [Capgemini Cyber plac - szkolenie *Podstawy testowania w IT*](https://kursy.cyberplac.pl/product/podstawy-testowania-w-it/) (13.01.2023 r.),
+  * [Capgemini Cyber plac - szkolenie *Podstawy testowania w IT*](https://kursy.cyberplac.pl/product/podstawy-testowania-w-it/) (dn. 13.01.2023 r.),
 
-  * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub [<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/challenge_portfolio_Karolina) / [poświadczenie](https://drive.google.com/drive/folders/1kah8juosYfMavOis_6O5CjazhItI-3dD),
+  * [Dare IT Challenge - mentoring *Zostań Testerem Manualnym*](https://www.dareit.io/challenges/qa-manual-testing) (dn. 12.01. - 23.02.2023 r.) - :point_right: repozytorium w GitHub [<img width="25" alt="Github logo" src="https://user-images.githubusercontent.com/110050632/220699930-d425d600-c30a-499d-8bf9-a713cf389535.png">](https://github.com/karabiel/challenge_portfolio_Karolina) / [poświadczenie](https://drive.google.com/drive/folders/1kah8juosYfMavOis_6O5CjazhItI-3dD),
 
-  * [Dare IT x SWPS Innowacje – *Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (02.02. - 09.03.2023 r.),
+  * [Dare IT x SWPS Innowacje – *Zbuduj swoją samoskuteczność*](https://kurs.dareit.io/) (dn. 02.02. - 09.03.2023 r.),
 
-  * [Tomasz Libera - *SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.).
+  * [Tomasz Libera - *SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.),
+ 
+  * [GoIT](https://m.goit.global/pl) - [4-dniowy QA maraton](https://qa.m.goit.global/pl/?utm_source=organic&utm_medium=seo&utm_campaign=freeproductpage) (dn. 22.05. - 25.05.2023 r.).
 
 
 ### Webinary :coffee:
 
 Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, testowanie czy przebranżowienie:
 
-  * Michał Makaruk (Akademia kodu) - [*Specjalność Programista: Podstawy Javy*](https://www.youtube.com/watch?v=wtSX8n5omrI) (10.05.2020 r.),
+  * Michał Makaruk (Akademia kodu) - [*Specjalność Programista: Podstawy Javy*](https://www.youtube.com/watch?v=wtSX8n5omrI) (dn. 10.05.2020 r.),
 
-  * [IBM Poland](https://www.ibm.com/) - *Tech for Her - Social Media* (16.11.2020 r.),
+  * [IBM Poland](https://www.ibm.com/) - *Tech for Her - Social Media* (dn. 16.11.2020 r.),
 
-  * [Nokia](https://www.nokia.com/) - *#testedInWrocław* (27.10.2022 r.),
+  * [Nokia](https://www.nokia.com/) - *#testedInWrocław* (dn. 27.10.2022 r.),
 
-  * [Keywords Studios](https://www.keywordsstudios.com/) - *What is behind game testing and how to become a video game tester?* (27.10.2022 r.),
+  * [Keywords Studios](https://www.keywordsstudios.com/) - *What is behind game testing and how to become a video game tester?* (dn. 27.10.2022 r.),
 
-  * Jarek Łojko (Agile Adept), Paweł Kmiotek - [*Czy, kiedy i jaka wiedza techniczna przydaje się SM-om*](https://www.youtube.com/watch?v=zuZGkgmXcQQ) (09.11.2022 r.),
+  * Jarek Łojko (Agile Adept), Paweł Kmiotek - [*Czy, kiedy i jaka wiedza techniczna przydaje się SM-om*](https://www.youtube.com/watch?v=zuZGkgmXcQQ) (dn. 09.11.2022 r.),
 
-  * Girls4Girls (Nokia) - meet-up online [*WOMEN of IT/ KOBIETY IT conference*](https://nokiabydgoszcz.pl/kobiety-w-it/girls-for-girls/) (17.11.2022 r.),
+  * Girls4Girls (Nokia) - meet-up online [*WOMEN of IT/ KOBIETY IT conference*](https://nokiabydgoszcz.pl/kobiety-w-it/girls-for-girls/) (dn. 17.11.2022 r.),
 
-  * DareIT - [*Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim*](https://www.youtube.com/live/RUAwpJq928A?feature=share) (04.01.2023 r.),
+  * DareIT - [*Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim*](https://www.youtube.com/live/RUAwpJq928A?feature=share) (dn. 04.01.2023 r.),
 
-  * Dawid Pacia ([Cantest](https://www.cantest.it/)) - *DevTools - zrozum, odnajdź się, korzystaj w testach i automatyzacji* (24.01.2023 r.),
+  * Dawid Pacia ([Cantest](https://www.cantest.it/)) - *DevTools - zrozum, odnajdź się, korzystaj w testach i automatyzacji* (dn. 24.01.2023 r.),
 
-  * [Filip Paluch, Damian Krychowski (Ifs&Whiles) - *Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (26.01.2023 r.),
+  * [Filip Paluch, Damian Krychowski (Ifs&Whiles) - *Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (dn. 26.01.2023 r.),
   
-  * Adam Toczek ([Cantest](https://www.cantest.it/)) - *Java + Selenium absolutne podstawy* (14.03.2023 r.),
+  * Adam Toczek ([Cantest](https://www.cantest.it/)) - *Java + Selenium absolutne podstawy* (dn. 14.03.2023 r.),
   
-  * Tomasz Libera ([Kursy SQL](https://www.kursysql.pl/)) - [*Transakcje w SQL Server i SQL Database*](https://www.youtube.com/live/i9JrEzYUm68) (15.03.2023 r.).
+  * Tomasz Libera ([Kursy SQL](https://www.kursysql.pl/)) - [*Transakcje w SQL Server i SQL Database*](https://www.youtube.com/live/i9JrEzYUm68) (dn. 15.03.2023 r.).
 
 
 ### Podcasty :headphones:
