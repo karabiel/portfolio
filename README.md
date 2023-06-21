@@ -138,7 +138,9 @@ Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, test
   
   * Adam Toczek ([Cantest](https://www.cantest.it/)) - *Java + Selenium absolutne podstawy* (dn. 14.03.2023 r.),
   
-  * Tomasz Libera ([Kursy SQL](https://www.kursysql.pl/)) - [*Transakcje w SQL Server i SQL Database*](https://www.youtube.com/live/i9JrEzYUm68) (dn. 15.03.2023 r.).
+  * Tomasz Libera ([Kursy SQL](https://www.kursysql.pl/)) - [*Transakcje w SQL Server i SQL Database*](https://www.youtube.com/live/i9JrEzYUm68) (dn. 15.03.2023 r.),
+  
+  * Bartosz Kita ([AkademiaQA](https://akademiaqa.pl/)) - [*Testowanie REST API dla początkujących*](https://www.youtube.com/live/J2h7r9BCAts?feature=share) (dn. 19.06.2023 r.).
 
 
 ### Podcasty :headphones:
