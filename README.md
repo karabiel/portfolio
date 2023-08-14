@@ -67,7 +67,7 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
   * testowanie - spostrzegawczość, dociekliwość i inne -ości, którymi się cechuję 
  
 
-    - :link: [testowanie po godzinach](https://docs.google.com/document/d/11OYDfNMvq5at9UK4e01jVxfimCmF35glh1GNUl4dP6Q/edit) - błędy, które udało mi się znaleźć głównie podczas codziennego użytkowania różnych witryn.
+    - :link: [testowanie po godzinach](https://docs.google.com/document/d/11OYDfNMvq5at9UK4e01jVxfimCmF35glh1GNUl4dP6Q/edit) - błędy, które udało mi się znaleźć głównie podczas codziennego użytkowania różnych witryn (ale nie tylko).
 
 
 ### Tools :hammer_and_wrench:
@@ -76,6 +76,7 @@ Jestem zaznajomiona z takimi narzędziami jak:
 
   - [Google Workspace](https://workspace.google.com/features/) (m.in. [Drive](https://workspace.google.com/products/drive/), [Docs](https://workspace.google.com/products/docs/), [Calendar](https://workspace.google.com/products/calendar/), [Meet](https://workspace.google.com/products/meet/)),
   - [Trello](https://trello.com/pl),
+  - [Slack](https://slack.com/),
   - [TestRail](http://testrail.com/),
   - [TestLink](https://testlink.org/),
   - [Moodle](https://moodle.org/?lang=pl),
@@ -83,7 +84,6 @@ Jestem zaznajomiona z takimi narzędziami jak:
   - [Xampp](https://www.apachefriends.org/pl/index.html),
   - [SQL Serve Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16),
   - [IntelliJ](https://www.jetbrains.com/idea/),
-  - [Slack](https://slack.com/),
   - [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software).
 
 <br>
@@ -111,7 +111,9 @@ Ukończyłam kilka szkoleń oraz kursów online:
 
   * [Tomasz Libera - *SQL w 120 minut - kurs podstaw pisania zapytań SQL*](https://www.kursysql.pl/szkolenie-sql-w-120-minut/) (dn. 22.02.2023 r.),
  
-  * [GoIT](https://m.goit.global/pl) - [4-dniowy QA maraton](https://qa.m.goit.global/pl/?utm_source=organic&utm_medium=seo&utm_campaign=freeproductpage) (dn. 22.05. - 25.05.2023 r.).
+  * [GoIT](https://m.goit.global/pl) - [4-dniowy QA maraton](https://qa.m.goit.global/pl/?utm_source=organic&utm_medium=seo&utm_campaign=freeproductpage) (dn. 22.05. - 25.05.2023 r.),
+
+  * [CherryIT](http://cherry-it.pl/) - *Projekt treningowy 1/2023* (dn. 21.06. - 20.08.2023 r.).
 
 
 ### Webinary :coffee:
