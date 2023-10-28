@@ -76,16 +76,11 @@ Jestem zaznajomiona z takimi narzędziami jak:
 
   - [Google Workspace](https://workspace.google.com/features/) (m.in. [Drive](https://workspace.google.com/products/drive/), [Docs](https://workspace.google.com/products/docs/), [Calendar](https://workspace.google.com/products/calendar/), [Meet](https://workspace.google.com/products/meet/)),
   - [Trello](https://trello.com/pl),
-  - [Slack](https://slack.com/),
-  - [TestRail](http://testrail.com/),
-  - [TestLink](https://testlink.org/),
-  - [Moodle](https://moodle.org/?lang=pl),
-  - [Redmine](https://www.redmine.org/),
+  - [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software)
+  - [TestRail](http://testrail.com/), [TestLink](https://testlink.org/), [Redmine](https://www.redmine.org/),
   - [Xampp](https://www.apachefriends.org/pl/index.html),
   - [SQL Serve Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16),
-  - [IntelliJ](https://www.jetbrains.com/idea/),
-  - [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software).
-
+  - [IntelliJ](https://www.jetbrains.com/idea/).
 <br>
 
 ##  Aktywność
@@ -136,13 +131,19 @@ Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, test
 
   * Dawid Pacia ([Cantest](https://www.cantest.it/)) - *DevTools - zrozum, odnajdź się, korzystaj w testach i automatyzacji* (dn. 24.01.2023 r.),
 
-  * [Filip Paluch, Damian Krychowski (Ifs&Whiles) - *Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (dn. 26.01.2023 r.),
+  * Filip Paluch, Damian Krychowski [(Ifs&Whiles)](https://www.czyitjestdlamnie.pl/) - [*Czy IT jest dla mnie? Naucz się testować manualnie*](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji) (dn. 26.01.2023 r.),
   
   * Adam Toczek ([Cantest](https://www.cantest.it/)) - *Java + Selenium absolutne podstawy* (dn. 14.03.2023 r.),
   
   * Tomasz Libera ([Kursy SQL](https://www.kursysql.pl/)) - [*Transakcje w SQL Server i SQL Database*](https://www.youtube.com/live/i9JrEzYUm68) (dn. 15.03.2023 r.),
   
-  * Bartosz Kita ([AkademiaQA](https://akademiaqa.pl/)) - [*Testowanie REST API dla początkujących*](https://www.youtube.com/live/J2h7r9BCAts?feature=share) (dn. 19.06.2023 r.).
+  * Bartosz Kita ([AkademiaQA](https://akademiaqa.pl/)) - [*Testowanie REST API dla początkujących*](https://www.youtube.com/live/J2h7r9BCAts?feature=share) (dn. 19.06.2023 r.),
+  
+  * [Digital Dragons Academy: Testy QA](https://akademia.digitaldragons.pl/testy-qa/) (dn. 28.10.2023 r.):
+    - Dawid Babiak, Michał Rybczyński ([Rage Quit Games](https://ragequitgames.com/))- *Jak gramy do jednej bramki? Współpraca DEV – QA*,
+    - Aleksander Kauch ([11 bit studios](https://www.11bitstudios.com)) - *Więcej niż klikanie - Quality assurance w produkcji gier*,
+    - Jakub Dudkowski ([QLOC](https://q-loc.com/)) - *Pięść, rzut, blok – o testowaniu bijatyk*.
+  
 
 
 ### Podcasty :headphones:
@@ -155,7 +156,9 @@ W wolnych chwilach słucham podcasty o tematyce testowania oraz ogólnych poję�
 
   * Maciej Wyrodek - [*Itea Morning*](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82NjJlZDEwOC9wb2RjYXN0L3Jzcw),
   
-  * Łukasz Kobyliński - [*Stacja IT*](https://podcasts.google.com/feed/aHR0cHM6Ly9zdGFjamFpdC5saWJzeW4uY29tL3Jzcw).
+  * Łukasz Kobyliński - [*Stacja IT*](https://podcasts.google.com/feed/aHR0cHM6Ly9zdGFjamFpdC5saWJzeW4uY29tL3Jzcw),
+
+  * Daria Dobrzańska i Kinga Witko - [*Tu się Testuje*](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ).
 
 
 ### Literatura :books:
