@@ -108,7 +108,7 @@ Ukończyłam kilka szkoleń oraz kursów online:
  
   * [GoIT](https://m.goit.global/pl) - [4-dniowy QA maraton](https://qa.m.goit.global/pl/?utm_source=organic&utm_medium=seo&utm_campaign=freeproductpage) (dn. 22.05. - 25.05.2023 r.),
 
-  * [CherryIT](http://cherry-it.pl/) - *Projekt treningowy 1/2023* (dn. 21.06. - 20.08.2023 r.).
+  * [CherryIT](http://cherry-it.pl/) - [*Projekt treningowy 1/2023*](http://cherry-it.pl/podsumowanie-projektu-treningowego-1-2023/) (dn. 21.06. - 20.08.2023 r.).
 
 
 ### Webinary :coffee:
