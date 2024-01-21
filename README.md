@@ -56,7 +56,11 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
     - :link: [zadania z *DareIT*](https://github.com/karabiel/challenge_portfolio_Karolina#subtask-3-zadania-weight_lifting),
     
     
-    - :link: [zadania z *SQL w 120 min*](https://github.com/karabiel/SQL-w-120-min/blob/main/README.md);
+    - :link: [zadania z *SQL w 120 min*](https://github.com/karabiel/SQL-w-120-min/blob/main/README.md),
+    
+    
+    - :link: [na podstawie gry kryminalnej *SQL Police Department*](https://github.com/karabiel/SQL_PD/);
+
 
   * tworzenie podstawowych stron WWW (HTML + CSS)
 
