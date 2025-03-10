@@ -68,7 +68,8 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
     - :link: [przykładowa strona](https://62c29c2fac36813543eb1f90--venerable-chaja-3bae5f.netlify.app/);
     
 
-  * testowanie - spostrzegawczość, dociekliwość i inne -ości, którymi się cechuję 
+  * testowanie - spostrzegawczość, dociekliwość i inne -ości, którymi się cechuję [<img width="40" alt="fish bones" src="https://github.com/user-attachments/assets/a1c03824-9ca8-438e-b2c6-a9cd6ef96873">](https://youtu.be/P45cmvvAO2Q?feature=shared)
+
  
 
    - :link: [repozytorium *Testowanie po godzinach*](https://github.com/karabiel/testowaniepogodzinach) - błędy, które udało mi się znaleźć głównie podczas codziennego użytkowania różnych witryn (ale nie tylko),
