@@ -75,7 +75,7 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
    - :link: [repozytorium *Testowanie po godzinach*](https://github.com/karabiel/testowaniepogodzinach) - błędy, które udało mi się znaleźć głównie podczas codziennego użytkowania różnych witryn (ale nie tylko),
     
     
-   - :link: [blog *Testowanie po godzinach*](https://docs.google.com/document/d/11OYDfNMvq5at9UK4e01jVxfimCmF35glh1GNUl4dP6Q/edit) - rozszerzenie repozytorium w formie bloga.
+   - :link: [blog *Testowanie po godzinach*](https://testowaniepogodzinach.wordpress.com/about/) - rozszerzenie repozytorium w formie bloga.
 
 ### Tools :hammer_and_wrench:
 
