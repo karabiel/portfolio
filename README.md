@@ -28,7 +28,7 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
   * pisanie przypadków testowych
 
 
-    - :link: [test case](https://docs.google.com/spreadsheets/d/1gMRvA4AzB3IckBaf9QPf3tALYW9ygNu0e_rcYhbp9M8/edit?usp=sharing) dla [Internetowego kalkulatora akcyzy](https://obliczakcyze.pl/),
+    - :link: [test case](https://docs.google.com/spreadsheets/d/1gMRvA4AzB3IckBaf9QPf3tALYW9ygNu0e_rcYhbp9M8/edit?usp=sharing) dla "Internetowego kalkulatora akcyzy",
 
 
     - :link: [test case](https://docs.google.com/document/d/16axYt9oWGVhoxJG_qsYtjMcE5DUH_8Lb6Pc2V6E4WtQ/edit) na podstawie user story dla platformy [Scout Panel](https://scouts-test.futbolkolektyw.pl/),
@@ -38,7 +38,7 @@ Poniżej zamieszczam najistotniejsze informacje dotyczące moich zdobytych dośw
  
 
 
-    - :link: [test case](https://docs.google.com/spreadsheets/d/1m42aw74ORIgIxPNJ6pHRAMbvcZYDSOixvUUUSEOibPc/edit#gid=1984670991) na przykładzie [Gmail'a](www.gmail.com);
+    - :link: [test case](https://docs.google.com/spreadsheets/d/1m42aw74ORIgIxPNJ6pHRAMbvcZYDSOixvUUUSEOibPc/edit#gid=1984670991) na przykładzie [Gmaila](https://www.gmail.com);
 
 
   * tworzenie raportów
@@ -83,7 +83,8 @@ Jestem zaznajomiona z takimi narzędziami jak:
 
   - [Google Workspace](https://workspace.google.com/features/) (m.in. [Drive](https://workspace.google.com/products/drive/), [Docs](https://workspace.google.com/products/docs/), [Calendar](https://workspace.google.com/products/calendar/), [Meet](https://workspace.google.com/products/meet/)),
   - [Trello](https://trello.com/pl),
-  - [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software)
+  - [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/pl-pl/microsoft-teams/group-chat-software),
+  - [Jira](https://www.atlassian.com/software/jira),
   - [TestRail](http://testrail.com/), [TestLink](https://testlink.org/), [Redmine](https://www.redmine.org/),
   - [Xampp](https://www.apachefriends.org/pl/index.html),
   - [SQL Serve Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16),
@@ -159,13 +160,13 @@ Uczestniczyłam w webinarach dotyczących takich pojęć jak programowanie, test
 
 W wolnych chwilach słucham podcasty o tematyce testowania oraz ogólnych pojęć ze świata IT:
 
-  * Norbert Jankowski (ping) - [*Testowanie Oprogramowania Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0dGVzdG93YW5pZS5wbC9mZWVkLw),
+  * Norbert Jankowski (ping) - [*Testowanie Oprogramowania Podcast*](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd),
 
-  * Piotr Krzosa (testuj.pl) - [*TestujTalks*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vdGVzdHVqdGFsa3Mv),
+  * Piotr Krzosa (testuj.pl) - [*TestujTalks*](https://www.youtube.com/playlist?list=PL785iOrb0sYh11MYcSkDLO42IgLcDHE6o),
 
-  * Maciej Wyrodek - [*Itea Morning*](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82NjJlZDEwOC9wb2RjYXN0L3Jzcw),
+  * Maciej Wyrodek - [*Itea Morning*](https://open.spotify.com/show/3Yo5AtGfQVXAxFA5q13zdF),
   
-  * Łukasz Kobyliński - [*Stacja IT*](https://podcasts.google.com/feed/aHR0cHM6Ly9zdGFjamFpdC5saWJzeW4uY29tL3Jzcw),
+  * Łukasz Kobyliński - [*Stacja IT*](https://www.youtube.com/@stacjait),
 
   * Daria Dobrzańska i Kinga Witko - [*Tu się Testuje*](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ).
 
